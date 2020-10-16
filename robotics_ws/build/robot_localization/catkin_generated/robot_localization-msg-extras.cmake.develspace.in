@@ -1,0 +1,2 @@
+set(robot_localization_MESSAGE_FILES "")
+set(robot_localization_SERVICE_FILES "/home/barbosa/robotics_ws/src/robot_localization/srv/GetState.srv;/home/barbosa/robotics_ws/src/robot_localization/srv/SetDatum.srv;/home/barbosa/robotics_ws/src/robot_localization/srv/SetPose.srv;/home/barbosa/robotics_ws/src/robot_localization/srv/ToggleFilterProcessing.srv;/home/barbosa/robotics_ws/src/robot_localization/srv/FromLL.srv;/home/barbosa/robotics_ws/src/robot_localization/srv/ToLL.srv")

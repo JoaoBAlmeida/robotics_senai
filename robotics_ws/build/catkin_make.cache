@@ -1,0 +1,2 @@
+husky/husky_base:husky/husky_bringup:husky/husky_control:husky/husky_description:husky/husky_desktop:husky/husky_gazebo:husky/husky_msgs:husky/husky_navigation:husky/husky_robot:husky/husky_simulator:husky/husky_viz:interactive_marker_twist_server:joystick_drivers/joy:joystick_drivers/joystick_drivers:joystick_drivers/ps3joy:joystick_drivers/spacenav_node:joystick_drivers/wiimote:lms1xx:robot_localization:teleop_twist_joy:twist_mux
+-DCATKIN_DEVEL_PREFIX=/home/barbosa/robotics_ws/devel -DCMAKE_INSTALL_PREFIX=/home/barbosa/robotics_ws/install -G Unix Makefiles
